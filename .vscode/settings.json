@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "lib\\mysql-connector-j-9.2.0.jar",
+        "c:\\Users\\arpit\\Desktop\\OOPS Project\\HMS\\lib\\mysql-connector-j-9.2.0.jar"
+    ]
+}

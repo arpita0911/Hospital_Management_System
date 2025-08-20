@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch Program",
+        "request": "launch",
+        "mainClass": "hospitalmanagementsystem.login",
+        "classPaths": [
+          "bin",
+          "lib/mysql-connector-j-9.2.0.jar"
+        ]
+      }
+    ]
+  }
+  
